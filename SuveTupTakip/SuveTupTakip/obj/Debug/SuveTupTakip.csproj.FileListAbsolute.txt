@@ -1,0 +1,12 @@
+C:\Users\ismail\Desktop\C# PROJELER\SuveTupTakip\SuveTupTakip\obj\Debug\SuveTupTakip.csproj.AssemblyReference.cache
+C:\Users\ismail\Desktop\C# PROJELER\SuveTupTakip\SuveTupTakip\obj\Debug\SuveTupTakip.csproj.SuggestedBindingRedirects.cache
+C:\Users\ismail\Desktop\C# PROJELER\SuveTupTakip\SuveTupTakip\obj\Debug\SuveTupTakip.Form1.resources
+C:\Users\ismail\Desktop\C# PROJELER\SuveTupTakip\SuveTupTakip\obj\Debug\SuveTupTakip.Properties.Resources.resources
+C:\Users\ismail\Desktop\C# PROJELER\SuveTupTakip\SuveTupTakip\obj\Debug\SuveTupTakip.csproj.GenerateResource.cache
+C:\Users\ismail\Desktop\C# PROJELER\SuveTupTakip\SuveTupTakip\obj\Debug\SuveTupTakip.csproj.CoreCompileInputs.cache
+C:\Users\ismail\Desktop\C# PROJELER\SuveTupTakip\SuveTupTakip\bin\Debug\SuveTupTakip.exe.config
+C:\Users\ismail\Desktop\C# PROJELER\SuveTupTakip\SuveTupTakip\bin\Debug\SuveTupTakip.exe
+C:\Users\ismail\Desktop\C# PROJELER\SuveTupTakip\SuveTupTakip\bin\Debug\SuveTupTakip.pdb
+C:\Users\ismail\Desktop\C# PROJELER\SuveTupTakip\SuveTupTakip\obj\Debug\SuveTupTakip.exe
+C:\Users\ismail\Desktop\C# PROJELER\SuveTupTakip\SuveTupTakip\obj\Debug\SuveTupTakip.pdb
+C:\Users\ismail\Desktop\C# PROJELER\SuveTupTakip\SuveTupTakip\bin\Debug\SuTup.accdb

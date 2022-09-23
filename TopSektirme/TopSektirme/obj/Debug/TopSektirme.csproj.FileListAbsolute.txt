@@ -1,0 +1,11 @@
+C:\Users\ismail\Desktop\C# PROJELER\TopSektirme\TopSektirme\bin\Debug\TopSektirme.exe.config
+C:\Users\ismail\Desktop\C# PROJELER\TopSektirme\TopSektirme\bin\Debug\TopSektirme.exe
+C:\Users\ismail\Desktop\C# PROJELER\TopSektirme\TopSektirme\bin\Debug\TopSektirme.pdb
+C:\Users\ismail\Desktop\C# PROJELER\TopSektirme\TopSektirme\obj\Debug\TopSektirme.csproj.AssemblyReference.cache
+C:\Users\ismail\Desktop\C# PROJELER\TopSektirme\TopSektirme\obj\Debug\TopSektirme.csproj.SuggestedBindingRedirects.cache
+C:\Users\ismail\Desktop\C# PROJELER\TopSektirme\TopSektirme\obj\Debug\TopSektirme.Form1.resources
+C:\Users\ismail\Desktop\C# PROJELER\TopSektirme\TopSektirme\obj\Debug\TopSektirme.Properties.Resources.resources
+C:\Users\ismail\Desktop\C# PROJELER\TopSektirme\TopSektirme\obj\Debug\TopSektirme.csproj.GenerateResource.cache
+C:\Users\ismail\Desktop\C# PROJELER\TopSektirme\TopSektirme\obj\Debug\TopSektirme.csproj.CoreCompileInputs.cache
+C:\Users\ismail\Desktop\C# PROJELER\TopSektirme\TopSektirme\obj\Debug\TopSektirme.exe
+C:\Users\ismail\Desktop\C# PROJELER\TopSektirme\TopSektirme\obj\Debug\TopSektirme.pdb

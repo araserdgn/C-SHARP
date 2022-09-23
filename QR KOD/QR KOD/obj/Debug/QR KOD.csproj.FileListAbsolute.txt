@@ -1,0 +1,25 @@
+C:\Users\ismail\Desktop\C# PROJELER\QR KOD\QR KOD\bin\Debug\QR KOD.exe.config
+C:\Users\ismail\Desktop\C# PROJELER\QR KOD\QR KOD\bin\Debug\QR KOD.exe
+C:\Users\ismail\Desktop\C# PROJELER\QR KOD\QR KOD\bin\Debug\QR KOD.pdb
+C:\Users\ismail\Desktop\C# PROJELER\QR KOD\QR KOD\bin\Debug\AForge.dll
+C:\Users\ismail\Desktop\C# PROJELER\QR KOD\QR KOD\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\ismail\Desktop\C# PROJELER\QR KOD\QR KOD\bin\Debug\AForge.Video.dll
+C:\Users\ismail\Desktop\C# PROJELER\QR KOD\QR KOD\bin\Debug\zxing.dll
+C:\Users\ismail\Desktop\C# PROJELER\QR KOD\QR KOD\bin\Debug\zxing.presentation.dll
+C:\Users\ismail\Desktop\C# PROJELER\QR KOD\QR KOD\bin\Debug\AForge.xml
+C:\Users\ismail\Desktop\C# PROJELER\QR KOD\QR KOD\bin\Debug\AForge.Video.xml
+C:\Users\ismail\Desktop\C# PROJELER\QR KOD\QR KOD\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\ismail\Desktop\C# PROJELER\QR KOD\QR KOD\bin\Debug\zxing.xml
+C:\Users\ismail\Desktop\C# PROJELER\QR KOD\QR KOD\bin\Debug\zxing.presentation.xml
+C:\Users\ismail\Desktop\C# PROJELER\QR KOD\QR KOD\obj\Debug\QR KOD.csproj.AssemblyReference.cache
+C:\Users\ismail\Desktop\C# PROJELER\QR KOD\QR KOD\obj\Debug\QR KOD.csproj.SuggestedBindingRedirects.cache
+C:\Users\ismail\Desktop\C# PROJELER\QR KOD\QR KOD\obj\Debug\QR_KOD.Form1.resources
+C:\Users\ismail\Desktop\C# PROJELER\QR KOD\QR KOD\obj\Debug\QR_KOD.Properties.Resources.resources
+C:\Users\ismail\Desktop\C# PROJELER\QR KOD\QR KOD\obj\Debug\QR KOD.csproj.GenerateResource.cache
+C:\Users\ismail\Desktop\C# PROJELER\QR KOD\QR KOD\obj\Debug\QR KOD.csproj.CoreCompileInputs.cache
+C:\Users\ismail\Desktop\C# PROJELER\QR KOD\QR KOD\obj\Debug\QR KOD.csproj.CopyComplete
+C:\Users\ismail\Desktop\C# PROJELER\QR KOD\QR KOD\obj\Debug\QR KOD.exe
+C:\Users\ismail\Desktop\C# PROJELER\QR KOD\QR KOD\obj\Debug\QR KOD.pdb
+C:\Users\ismail\Desktop\C# PROJELER\QR KOD\QR KOD\obj\Debug\QR_KOD.Form2.resources
+C:\Users\ismail\Desktop\C# PROJELER\QR KOD\QR KOD\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\ismail\Desktop\C# PROJELER\QR KOD\QR KOD\bin\Debug\QRCoder.dll

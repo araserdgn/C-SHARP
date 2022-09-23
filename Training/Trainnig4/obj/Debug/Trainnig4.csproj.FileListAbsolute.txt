@@ -1,0 +1,8 @@
+C:\Users\ismail\Desktop\C# PROJELER\Training\Trainnig4\bin\Debug\Trainnig4.exe.config
+C:\Users\ismail\Desktop\C# PROJELER\Training\Trainnig4\bin\Debug\Trainnig4.exe
+C:\Users\ismail\Desktop\C# PROJELER\Training\Trainnig4\bin\Debug\Trainnig4.pdb
+C:\Users\ismail\Desktop\C# PROJELER\Training\Trainnig4\obj\Debug\Trainnig4.csproj.AssemblyReference.cache
+C:\Users\ismail\Desktop\C# PROJELER\Training\Trainnig4\obj\Debug\Trainnig4.csproj.SuggestedBindingRedirects.cache
+C:\Users\ismail\Desktop\C# PROJELER\Training\Trainnig4\obj\Debug\Trainnig4.csproj.CoreCompileInputs.cache
+C:\Users\ismail\Desktop\C# PROJELER\Training\Trainnig4\obj\Debug\Trainnig4.exe
+C:\Users\ismail\Desktop\C# PROJELER\Training\Trainnig4\obj\Debug\Trainnig4.pdb

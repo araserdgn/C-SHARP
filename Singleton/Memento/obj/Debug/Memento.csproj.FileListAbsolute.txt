@@ -1,0 +1,8 @@
+C:\Users\ismail\Desktop\C# PROJELER\Singleton\Memento\bin\Debug\Memento.exe.config
+C:\Users\ismail\Desktop\C# PROJELER\Singleton\Memento\bin\Debug\Memento.exe
+C:\Users\ismail\Desktop\C# PROJELER\Singleton\Memento\bin\Debug\Memento.pdb
+C:\Users\ismail\Desktop\C# PROJELER\Singleton\Memento\obj\Debug\Memento.csproj.AssemblyReference.cache
+C:\Users\ismail\Desktop\C# PROJELER\Singleton\Memento\obj\Debug\Memento.csproj.SuggestedBindingRedirects.cache
+C:\Users\ismail\Desktop\C# PROJELER\Singleton\Memento\obj\Debug\Memento.csproj.CoreCompileInputs.cache
+C:\Users\ismail\Desktop\C# PROJELER\Singleton\Memento\obj\Debug\Memento.exe
+C:\Users\ismail\Desktop\C# PROJELER\Singleton\Memento\obj\Debug\Memento.pdb

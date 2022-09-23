@@ -1,0 +1,8 @@
+C:\Users\ismail\Desktop\C# PROJELER\Training\Hazırlık2\bin\Debug\Hazırlık2.exe.config
+C:\Users\ismail\Desktop\C# PROJELER\Training\Hazırlık2\bin\Debug\Hazırlık2.exe
+C:\Users\ismail\Desktop\C# PROJELER\Training\Hazırlık2\bin\Debug\Hazırlık2.pdb
+C:\Users\ismail\Desktop\C# PROJELER\Training\Hazırlık2\obj\Debug\Hazırlık2.csproj.AssemblyReference.cache
+C:\Users\ismail\Desktop\C# PROJELER\Training\Hazırlık2\obj\Debug\Hazırlık2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ismail\Desktop\C# PROJELER\Training\Hazırlık2\obj\Debug\Hazırlık2.csproj.CoreCompileInputs.cache
+C:\Users\ismail\Desktop\C# PROJELER\Training\Hazırlık2\obj\Debug\Hazırlık2.exe
+C:\Users\ismail\Desktop\C# PROJELER\Training\Hazırlık2\obj\Debug\Hazırlık2.pdb

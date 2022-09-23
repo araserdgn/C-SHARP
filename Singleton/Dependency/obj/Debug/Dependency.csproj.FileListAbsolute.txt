@@ -1,0 +1,11 @@
+C:\Users\ismail\Desktop\C# PROJELER\Singleton\Dependency\bin\Debug\Dependency.exe.config
+C:\Users\ismail\Desktop\C# PROJELER\Singleton\Dependency\bin\Debug\Dependency.exe
+C:\Users\ismail\Desktop\C# PROJELER\Singleton\Dependency\bin\Debug\Dependency.pdb
+C:\Users\ismail\Desktop\C# PROJELER\Singleton\Dependency\obj\Debug\Dependency.csproj.AssemblyReference.cache
+C:\Users\ismail\Desktop\C# PROJELER\Singleton\Dependency\obj\Debug\Dependency.csproj.SuggestedBindingRedirects.cache
+C:\Users\ismail\Desktop\C# PROJELER\Singleton\Dependency\obj\Debug\Dependency.csproj.CoreCompileInputs.cache
+C:\Users\ismail\Desktop\C# PROJELER\Singleton\Dependency\obj\Debug\Dependency.exe
+C:\Users\ismail\Desktop\C# PROJELER\Singleton\Dependency\obj\Debug\Dependency.pdb
+C:\Users\ismail\Desktop\C# PROJELER\Singleton\Dependency\bin\Debug\Ninject.dll
+C:\Users\ismail\Desktop\C# PROJELER\Singleton\Dependency\bin\Debug\Ninject.xml
+C:\Users\ismail\Desktop\C# PROJELER\Singleton\Dependency\obj\Debug\Dependency.csproj.CopyComplete

@@ -1,0 +1,8 @@
+C:\Users\ismail\Desktop\C# PROJELER\Singleton\Adaptor\bin\Debug\Adaptor.exe.config
+C:\Users\ismail\Desktop\C# PROJELER\Singleton\Adaptor\bin\Debug\Adaptor.exe
+C:\Users\ismail\Desktop\C# PROJELER\Singleton\Adaptor\bin\Debug\Adaptor.pdb
+C:\Users\ismail\Desktop\C# PROJELER\Singleton\Adaptor\obj\Debug\Adaptor.csproj.AssemblyReference.cache
+C:\Users\ismail\Desktop\C# PROJELER\Singleton\Adaptor\obj\Debug\Adaptor.csproj.SuggestedBindingRedirects.cache
+C:\Users\ismail\Desktop\C# PROJELER\Singleton\Adaptor\obj\Debug\Adaptor.csproj.CoreCompileInputs.cache
+C:\Users\ismail\Desktop\C# PROJELER\Singleton\Adaptor\obj\Debug\Adaptor.exe
+C:\Users\ismail\Desktop\C# PROJELER\Singleton\Adaptor\obj\Debug\Adaptor.pdb

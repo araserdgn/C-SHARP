@@ -1,0 +1,8 @@
+C:\Users\ismail\Desktop\C# PROJELER\Singleton\Prototype\bin\Debug\Prototype.exe.config
+C:\Users\ismail\Desktop\C# PROJELER\Singleton\Prototype\bin\Debug\Prototype.exe
+C:\Users\ismail\Desktop\C# PROJELER\Singleton\Prototype\bin\Debug\Prototype.pdb
+C:\Users\ismail\Desktop\C# PROJELER\Singleton\Prototype\obj\Debug\Prototype.csproj.AssemblyReference.cache
+C:\Users\ismail\Desktop\C# PROJELER\Singleton\Prototype\obj\Debug\Prototype.csproj.SuggestedBindingRedirects.cache
+C:\Users\ismail\Desktop\C# PROJELER\Singleton\Prototype\obj\Debug\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\ismail\Desktop\C# PROJELER\Singleton\Prototype\obj\Debug\Prototype.exe
+C:\Users\ismail\Desktop\C# PROJELER\Singleton\Prototype\obj\Debug\Prototype.pdb

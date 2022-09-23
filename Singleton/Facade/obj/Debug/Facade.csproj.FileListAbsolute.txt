@@ -1,0 +1,8 @@
+C:\Users\ismail\Desktop\C# PROJELER\Singleton\Facade\bin\Debug\Facade.exe.config
+C:\Users\ismail\Desktop\C# PROJELER\Singleton\Facade\bin\Debug\Facade.exe
+C:\Users\ismail\Desktop\C# PROJELER\Singleton\Facade\bin\Debug\Facade.pdb
+C:\Users\ismail\Desktop\C# PROJELER\Singleton\Facade\obj\Debug\Facade.csproj.AssemblyReference.cache
+C:\Users\ismail\Desktop\C# PROJELER\Singleton\Facade\obj\Debug\Facade.csproj.SuggestedBindingRedirects.cache
+C:\Users\ismail\Desktop\C# PROJELER\Singleton\Facade\obj\Debug\Facade.csproj.CoreCompileInputs.cache
+C:\Users\ismail\Desktop\C# PROJELER\Singleton\Facade\obj\Debug\Facade.exe
+C:\Users\ismail\Desktop\C# PROJELER\Singleton\Facade\obj\Debug\Facade.pdb
