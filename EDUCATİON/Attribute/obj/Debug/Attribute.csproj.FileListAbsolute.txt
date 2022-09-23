@@ -1,0 +1,8 @@
+C:\Users\ismail\Desktop\BTK_C#\Attribute\bin\Debug\Attribute.exe.config
+C:\Users\ismail\Desktop\BTK_C#\Attribute\bin\Debug\Attribute.exe
+C:\Users\ismail\Desktop\BTK_C#\Attribute\bin\Debug\Attribute.pdb
+C:\Users\ismail\Desktop\BTK_C#\Attribute\obj\Debug\Attribute.csproj.AssemblyReference.cache
+C:\Users\ismail\Desktop\BTK_C#\Attribute\obj\Debug\Attribute.csproj.SuggestedBindingRedirects.cache
+C:\Users\ismail\Desktop\BTK_C#\Attribute\obj\Debug\Attribute.csproj.CoreCompileInputs.cache
+C:\Users\ismail\Desktop\BTK_C#\Attribute\obj\Debug\Attribute.exe
+C:\Users\ismail\Desktop\BTK_C#\Attribute\obj\Debug\Attribute.pdb

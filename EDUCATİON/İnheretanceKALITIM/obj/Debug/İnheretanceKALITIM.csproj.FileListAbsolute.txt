@@ -1,0 +1,8 @@
+C:\Users\ismail\Desktop\BTK_C#\İnheretanceKALITIM\bin\Debug\İnheretanceKALITIM.exe.config
+C:\Users\ismail\Desktop\BTK_C#\İnheretanceKALITIM\bin\Debug\İnheretanceKALITIM.exe
+C:\Users\ismail\Desktop\BTK_C#\İnheretanceKALITIM\bin\Debug\İnheretanceKALITIM.pdb
+C:\Users\ismail\Desktop\BTK_C#\İnheretanceKALITIM\obj\Debug\İnheretanceKALITIM.csproj.AssemblyReference.cache
+C:\Users\ismail\Desktop\BTK_C#\İnheretanceKALITIM\obj\Debug\İnheretanceKALITIM.csproj.SuggestedBindingRedirects.cache
+C:\Users\ismail\Desktop\BTK_C#\İnheretanceKALITIM\obj\Debug\İnheretanceKALITIM.csproj.CoreCompileInputs.cache
+C:\Users\ismail\Desktop\BTK_C#\İnheretanceKALITIM\obj\Debug\İnheretanceKALITIM.exe
+C:\Users\ismail\Desktop\BTK_C#\İnheretanceKALITIM\obj\Debug\İnheretanceKALITIM.pdb

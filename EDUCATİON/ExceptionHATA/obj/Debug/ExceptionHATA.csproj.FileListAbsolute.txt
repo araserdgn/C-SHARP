@@ -1,0 +1,8 @@
+C:\Users\ismail\Desktop\BTK_C#\ExceptionHATA\bin\Debug\ExceptionHATA.exe.config
+C:\Users\ismail\Desktop\BTK_C#\ExceptionHATA\bin\Debug\ExceptionHATA.exe
+C:\Users\ismail\Desktop\BTK_C#\ExceptionHATA\bin\Debug\ExceptionHATA.pdb
+C:\Users\ismail\Desktop\BTK_C#\ExceptionHATA\obj\Debug\ExceptionHATA.csproj.AssemblyReference.cache
+C:\Users\ismail\Desktop\BTK_C#\ExceptionHATA\obj\Debug\ExceptionHATA.csproj.SuggestedBindingRedirects.cache
+C:\Users\ismail\Desktop\BTK_C#\ExceptionHATA\obj\Debug\ExceptionHATA.csproj.CoreCompileInputs.cache
+C:\Users\ismail\Desktop\BTK_C#\ExceptionHATA\obj\Debug\ExceptionHATA.exe
+C:\Users\ismail\Desktop\BTK_C#\ExceptionHATA\obj\Debug\ExceptionHATA.pdb

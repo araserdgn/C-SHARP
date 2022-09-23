@@ -1,0 +1,12 @@
+C:\Users\ismail\Desktop\BTK_C#\Constructors\bin\Debug\Constructors.exe.config
+C:\Users\ismail\Desktop\BTK_C#\Constructors\bin\Debug\Constructors.exe
+C:\Users\ismail\Desktop\BTK_C#\Constructors\bin\Debug\Constructors.pdb
+C:\Users\ismail\Desktop\BTK_C#\Constructors\bin\Debug\AccesModifiles.exe
+C:\Users\ismail\Desktop\BTK_C#\Constructors\bin\Debug\AccesModifiles.pdb
+C:\Users\ismail\Desktop\BTK_C#\Constructors\bin\Debug\AccesModifiles.exe.config
+C:\Users\ismail\Desktop\BTK_C#\Constructors\obj\Debug\Constructors.csproj.AssemblyReference.cache
+C:\Users\ismail\Desktop\BTK_C#\Constructors\obj\Debug\Constructors.csproj.SuggestedBindingRedirects.cache
+C:\Users\ismail\Desktop\BTK_C#\Constructors\obj\Debug\Constructors.csproj.CoreCompileInputs.cache
+C:\Users\ismail\Desktop\BTK_C#\Constructors\obj\Debug\Constructors.csproj.CopyComplete
+C:\Users\ismail\Desktop\BTK_C#\Constructors\obj\Debug\Constructors.exe
+C:\Users\ismail\Desktop\BTK_C#\Constructors\obj\Debug\Constructors.pdb

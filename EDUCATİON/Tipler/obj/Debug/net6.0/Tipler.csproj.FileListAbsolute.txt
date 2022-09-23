@@ -1,0 +1,15 @@
+C:\Users\ismail\Desktop\BTK_C#\Tipler\bin\Debug\net6.0\Tipler.exe
+C:\Users\ismail\Desktop\BTK_C#\Tipler\bin\Debug\net6.0\Tipler.deps.json
+C:\Users\ismail\Desktop\BTK_C#\Tipler\bin\Debug\net6.0\Tipler.runtimeconfig.json
+C:\Users\ismail\Desktop\BTK_C#\Tipler\bin\Debug\net6.0\Tipler.dll
+C:\Users\ismail\Desktop\BTK_C#\Tipler\bin\Debug\net6.0\ref\Tipler.dll
+C:\Users\ismail\Desktop\BTK_C#\Tipler\bin\Debug\net6.0\Tipler.pdb
+C:\Users\ismail\Desktop\BTK_C#\Tipler\obj\Debug\net6.0\Tipler.csproj.AssemblyReference.cache
+C:\Users\ismail\Desktop\BTK_C#\Tipler\obj\Debug\net6.0\Tipler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismail\Desktop\BTK_C#\Tipler\obj\Debug\net6.0\Tipler.AssemblyInfoInputs.cache
+C:\Users\ismail\Desktop\BTK_C#\Tipler\obj\Debug\net6.0\Tipler.AssemblyInfo.cs
+C:\Users\ismail\Desktop\BTK_C#\Tipler\obj\Debug\net6.0\Tipler.csproj.CoreCompileInputs.cache
+C:\Users\ismail\Desktop\BTK_C#\Tipler\obj\Debug\net6.0\Tipler.dll
+C:\Users\ismail\Desktop\BTK_C#\Tipler\obj\Debug\net6.0\ref\Tipler.dll
+C:\Users\ismail\Desktop\BTK_C#\Tipler\obj\Debug\net6.0\Tipler.pdb
+C:\Users\ismail\Desktop\BTK_C#\Tipler\obj\Debug\net6.0\Tipler.genruntimeconfig.cache

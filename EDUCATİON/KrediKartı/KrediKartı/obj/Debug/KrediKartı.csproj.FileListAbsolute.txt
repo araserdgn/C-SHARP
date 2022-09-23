@@ -1,0 +1,11 @@
+C:\Users\ismail\Desktop\BTK_C#\KrediKartı\KrediKartı\bin\Debug\KrediKartı.exe.config
+C:\Users\ismail\Desktop\BTK_C#\KrediKartı\KrediKartı\bin\Debug\KrediKartı.exe
+C:\Users\ismail\Desktop\BTK_C#\KrediKartı\KrediKartı\bin\Debug\KrediKartı.pdb
+C:\Users\ismail\Desktop\BTK_C#\KrediKartı\KrediKartı\obj\Debug\KrediKartı.csproj.SuggestedBindingRedirects.cache
+C:\Users\ismail\Desktop\BTK_C#\KrediKartı\KrediKartı\obj\Debug\KrediKartı.Properties.Resources.resources
+C:\Users\ismail\Desktop\BTK_C#\KrediKartı\KrediKartı\obj\Debug\KrediKartı.csproj.GenerateResource.cache
+C:\Users\ismail\Desktop\BTK_C#\KrediKartı\KrediKartı\obj\Debug\KrediKartı.csproj.CoreCompileInputs.cache
+C:\Users\ismail\Desktop\BTK_C#\KrediKartı\KrediKartı\obj\Debug\KrediKartı.exe
+C:\Users\ismail\Desktop\BTK_C#\KrediKartı\KrediKartı\obj\Debug\KrediKartı.pdb
+C:\Users\ismail\Desktop\BTK_C#\KrediKartı\KrediKartı\obj\Debug\KrediKartı.Form1.resources
+C:\Users\ismail\Desktop\BTK_C#\KrediKartı\KrediKartı\obj\Debug\KrediKartı.csproj.AssemblyReference.cache

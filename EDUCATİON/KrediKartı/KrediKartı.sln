@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KrediKartı", "KrediKartı\KrediKartı.csproj", "{2115F5E4-CC54-4807-80C3-92ED7FD61C7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2115F5E4-CC54-4807-80C3-92ED7FD61C7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2115F5E4-CC54-4807-80C3-92ED7FD61C7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2115F5E4-CC54-4807-80C3-92ED7FD61C7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2115F5E4-CC54-4807-80C3-92ED7FD61C7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BB1A061-E496-45CA-82DA-5AF279B0063B}
+	EndGlobalSection
+EndGlobal

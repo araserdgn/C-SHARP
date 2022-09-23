@@ -1,0 +1,11 @@
+C:\Users\ismail\Desktop\BTK_C#\Veren\Veren\bin\Debug\Veren.exe.config
+C:\Users\ismail\Desktop\BTK_C#\Veren\Veren\bin\Debug\Veren.exe
+C:\Users\ismail\Desktop\BTK_C#\Veren\Veren\bin\Debug\Veren.pdb
+C:\Users\ismail\Desktop\BTK_C#\Veren\Veren\obj\Debug\Veren.csproj.AssemblyReference.cache
+C:\Users\ismail\Desktop\BTK_C#\Veren\Veren\obj\Debug\Veren.csproj.SuggestedBindingRedirects.cache
+C:\Users\ismail\Desktop\BTK_C#\Veren\Veren\obj\Debug\Veren.Form1.resources
+C:\Users\ismail\Desktop\BTK_C#\Veren\Veren\obj\Debug\Veren.Properties.Resources.resources
+C:\Users\ismail\Desktop\BTK_C#\Veren\Veren\obj\Debug\Veren.csproj.GenerateResource.cache
+C:\Users\ismail\Desktop\BTK_C#\Veren\Veren\obj\Debug\Veren.csproj.CoreCompileInputs.cache
+C:\Users\ismail\Desktop\BTK_C#\Veren\Veren\obj\Debug\Veren.exe
+C:\Users\ismail\Desktop\BTK_C#\Veren\Veren\obj\Debug\Veren.pdb

@@ -1,0 +1,11 @@
+C:\Users\ismail\Desktop\BTK_C#\AdooNetDemo\bin\Debug\AdooNetDemo.exe.config
+C:\Users\ismail\Desktop\BTK_C#\AdooNetDemo\bin\Debug\AdooNetDemo.exe
+C:\Users\ismail\Desktop\BTK_C#\AdooNetDemo\bin\Debug\AdooNetDemo.pdb
+C:\Users\ismail\Desktop\BTK_C#\AdooNetDemo\obj\Debug\AdooNetDemo.csproj.AssemblyReference.cache
+C:\Users\ismail\Desktop\BTK_C#\AdooNetDemo\obj\Debug\AdooNetDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\ismail\Desktop\BTK_C#\AdooNetDemo\obj\Debug\AdooNetDemo.Form1.resources
+C:\Users\ismail\Desktop\BTK_C#\AdooNetDemo\obj\Debug\AdooNetDemo.Properties.Resources.resources
+C:\Users\ismail\Desktop\BTK_C#\AdooNetDemo\obj\Debug\AdooNetDemo.csproj.GenerateResource.cache
+C:\Users\ismail\Desktop\BTK_C#\AdooNetDemo\obj\Debug\AdooNetDemo.csproj.CoreCompileInputs.cache
+C:\Users\ismail\Desktop\BTK_C#\AdooNetDemo\obj\Debug\AdooNetDemo.exe
+C:\Users\ismail\Desktop\BTK_C#\AdooNetDemo\obj\Debug\AdooNetDemo.pdb

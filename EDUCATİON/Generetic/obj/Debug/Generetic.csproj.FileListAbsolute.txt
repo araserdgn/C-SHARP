@@ -1,0 +1,8 @@
+C:\Users\ismail\Desktop\BTK_C#\Generetic\bin\Debug\Generetic.exe.config
+C:\Users\ismail\Desktop\BTK_C#\Generetic\bin\Debug\Generetic.exe
+C:\Users\ismail\Desktop\BTK_C#\Generetic\bin\Debug\Generetic.pdb
+C:\Users\ismail\Desktop\BTK_C#\Generetic\obj\Debug\Generetic.csproj.AssemblyReference.cache
+C:\Users\ismail\Desktop\BTK_C#\Generetic\obj\Debug\Generetic.csproj.SuggestedBindingRedirects.cache
+C:\Users\ismail\Desktop\BTK_C#\Generetic\obj\Debug\Generetic.csproj.CoreCompileInputs.cache
+C:\Users\ismail\Desktop\BTK_C#\Generetic\obj\Debug\Generetic.exe
+C:\Users\ismail\Desktop\BTK_C#\Generetic\obj\Debug\Generetic.pdb

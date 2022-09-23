@@ -1,0 +1,15 @@
+C:\Users\ismail\Desktop\BTK_C#\Metotlar(fonks)\bin\Debug\net6.0\Metotlar(fonks).exe
+C:\Users\ismail\Desktop\BTK_C#\Metotlar(fonks)\bin\Debug\net6.0\Metotlar(fonks).deps.json
+C:\Users\ismail\Desktop\BTK_C#\Metotlar(fonks)\bin\Debug\net6.0\Metotlar(fonks).runtimeconfig.json
+C:\Users\ismail\Desktop\BTK_C#\Metotlar(fonks)\bin\Debug\net6.0\Metotlar(fonks).dll
+C:\Users\ismail\Desktop\BTK_C#\Metotlar(fonks)\bin\Debug\net6.0\ref\Metotlar(fonks).dll
+C:\Users\ismail\Desktop\BTK_C#\Metotlar(fonks)\bin\Debug\net6.0\Metotlar(fonks).pdb
+C:\Users\ismail\Desktop\BTK_C#\Metotlar(fonks)\obj\Debug\net6.0\Metotlar(fonks).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismail\Desktop\BTK_C#\Metotlar(fonks)\obj\Debug\net6.0\Metotlar(fonks).AssemblyInfoInputs.cache
+C:\Users\ismail\Desktop\BTK_C#\Metotlar(fonks)\obj\Debug\net6.0\Metotlar(fonks).AssemblyInfo.cs
+C:\Users\ismail\Desktop\BTK_C#\Metotlar(fonks)\obj\Debug\net6.0\Metotlar(fonks).csproj.CoreCompileInputs.cache
+C:\Users\ismail\Desktop\BTK_C#\Metotlar(fonks)\obj\Debug\net6.0\Metotlar(fonks).dll
+C:\Users\ismail\Desktop\BTK_C#\Metotlar(fonks)\obj\Debug\net6.0\ref\Metotlar(fonks).dll
+C:\Users\ismail\Desktop\BTK_C#\Metotlar(fonks)\obj\Debug\net6.0\Metotlar(fonks).pdb
+C:\Users\ismail\Desktop\BTK_C#\Metotlar(fonks)\obj\Debug\net6.0\Metotlar(fonks).genruntimeconfig.cache
+C:\Users\ismail\Desktop\BTK_C#\Metotlar(fonks)\obj\Debug\net6.0\Metotlar(fonks).csproj.AssemblyReference.cache

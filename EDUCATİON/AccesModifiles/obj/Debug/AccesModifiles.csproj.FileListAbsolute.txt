@@ -1,0 +1,8 @@
+C:\Users\ismail\Desktop\BTK_C#\AccesModifiles\bin\Debug\AccesModifiles.exe.config
+C:\Users\ismail\Desktop\BTK_C#\AccesModifiles\bin\Debug\AccesModifiles.exe
+C:\Users\ismail\Desktop\BTK_C#\AccesModifiles\bin\Debug\AccesModifiles.pdb
+C:\Users\ismail\Desktop\BTK_C#\AccesModifiles\obj\Debug\AccesModifiles.csproj.AssemblyReference.cache
+C:\Users\ismail\Desktop\BTK_C#\AccesModifiles\obj\Debug\AccesModifiles.csproj.SuggestedBindingRedirects.cache
+C:\Users\ismail\Desktop\BTK_C#\AccesModifiles\obj\Debug\AccesModifiles.csproj.CoreCompileInputs.cache
+C:\Users\ismail\Desktop\BTK_C#\AccesModifiles\obj\Debug\AccesModifiles.exe
+C:\Users\ismail\Desktop\BTK_C#\AccesModifiles\obj\Debug\AccesModifiles.pdb

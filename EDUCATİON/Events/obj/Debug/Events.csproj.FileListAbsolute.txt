@@ -1,0 +1,8 @@
+C:\Users\ismail\Desktop\BTK_C#\Events\bin\Debug\Events.exe.config
+C:\Users\ismail\Desktop\BTK_C#\Events\bin\Debug\Events.exe
+C:\Users\ismail\Desktop\BTK_C#\Events\bin\Debug\Events.pdb
+C:\Users\ismail\Desktop\BTK_C#\Events\obj\Debug\Events.csproj.AssemblyReference.cache
+C:\Users\ismail\Desktop\BTK_C#\Events\obj\Debug\Events.csproj.SuggestedBindingRedirects.cache
+C:\Users\ismail\Desktop\BTK_C#\Events\obj\Debug\Events.csproj.CoreCompileInputs.cache
+C:\Users\ismail\Desktop\BTK_C#\Events\obj\Debug\Events.exe
+C:\Users\ismail\Desktop\BTK_C#\Events\obj\Debug\Events.pdb

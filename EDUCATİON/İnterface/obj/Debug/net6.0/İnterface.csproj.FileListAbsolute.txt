@@ -1,0 +1,15 @@
+C:\Users\ismail\Desktop\BTK_C#\İnterface\obj\Debug\net6.0\İnterface.csproj.AssemblyReference.cache
+C:\Users\ismail\Desktop\BTK_C#\İnterface\obj\Debug\net6.0\İnterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismail\Desktop\BTK_C#\İnterface\obj\Debug\net6.0\İnterface.AssemblyInfoInputs.cache
+C:\Users\ismail\Desktop\BTK_C#\İnterface\obj\Debug\net6.0\İnterface.AssemblyInfo.cs
+C:\Users\ismail\Desktop\BTK_C#\İnterface\obj\Debug\net6.0\İnterface.csproj.CoreCompileInputs.cache
+C:\Users\ismail\Desktop\BTK_C#\İnterface\bin\Debug\net6.0\İnterface.exe
+C:\Users\ismail\Desktop\BTK_C#\İnterface\bin\Debug\net6.0\İnterface.deps.json
+C:\Users\ismail\Desktop\BTK_C#\İnterface\bin\Debug\net6.0\İnterface.runtimeconfig.json
+C:\Users\ismail\Desktop\BTK_C#\İnterface\bin\Debug\net6.0\İnterface.dll
+C:\Users\ismail\Desktop\BTK_C#\İnterface\bin\Debug\net6.0\ref\İnterface.dll
+C:\Users\ismail\Desktop\BTK_C#\İnterface\bin\Debug\net6.0\İnterface.pdb
+C:\Users\ismail\Desktop\BTK_C#\İnterface\obj\Debug\net6.0\İnterface.dll
+C:\Users\ismail\Desktop\BTK_C#\İnterface\obj\Debug\net6.0\ref\İnterface.dll
+C:\Users\ismail\Desktop\BTK_C#\İnterface\obj\Debug\net6.0\İnterface.pdb
+C:\Users\ismail\Desktop\BTK_C#\İnterface\obj\Debug\net6.0\İnterface.genruntimeconfig.cache
