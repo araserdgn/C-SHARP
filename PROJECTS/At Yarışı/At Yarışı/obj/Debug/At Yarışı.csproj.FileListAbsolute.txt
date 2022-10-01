@@ -9,3 +9,14 @@ C:\Users\ismail\Desktop\C# PROJELER\At Yarışı\At Yarışı\obj\Debug\At Yarı
 C:\Users\ismail\Desktop\C# PROJELER\At Yarışı\At Yarışı\obj\Debug\At Yarışı.csproj.CoreCompileInputs.cache
 C:\Users\ismail\Desktop\C# PROJELER\At Yarışı\At Yarışı\obj\Debug\At Yarışı.exe
 C:\Users\ismail\Desktop\C# PROJELER\At Yarışı\At Yarışı\obj\Debug\At Yarışı.pdb
+C:\Users\ismail\Documents\GitHub\C-SHARP\PROJECTS\At Yarışı\At Yarışı\bin\Debug\At Yarışı.exe.config
+C:\Users\ismail\Documents\GitHub\C-SHARP\PROJECTS\At Yarışı\At Yarışı\bin\Debug\At Yarışı.exe
+C:\Users\ismail\Documents\GitHub\C-SHARP\PROJECTS\At Yarışı\At Yarışı\bin\Debug\At Yarışı.pdb
+C:\Users\ismail\Documents\GitHub\C-SHARP\PROJECTS\At Yarışı\At Yarışı\obj\Debug\At Yarışı.csproj.AssemblyReference.cache
+C:\Users\ismail\Documents\GitHub\C-SHARP\PROJECTS\At Yarışı\At Yarışı\obj\Debug\At Yarışı.csproj.SuggestedBindingRedirects.cache
+C:\Users\ismail\Documents\GitHub\C-SHARP\PROJECTS\At Yarışı\At Yarışı\obj\Debug\At_Yarışı.Form1.resources
+C:\Users\ismail\Documents\GitHub\C-SHARP\PROJECTS\At Yarışı\At Yarışı\obj\Debug\At_Yarışı.Properties.Resources.resources
+C:\Users\ismail\Documents\GitHub\C-SHARP\PROJECTS\At Yarışı\At Yarışı\obj\Debug\At Yarışı.csproj.GenerateResource.cache
+C:\Users\ismail\Documents\GitHub\C-SHARP\PROJECTS\At Yarışı\At Yarışı\obj\Debug\At Yarışı.csproj.CoreCompileInputs.cache
+C:\Users\ismail\Documents\GitHub\C-SHARP\PROJECTS\At Yarışı\At Yarışı\obj\Debug\At Yarışı.exe
+C:\Users\ismail\Documents\GitHub\C-SHARP\PROJECTS\At Yarışı\At Yarışı\obj\Debug\At Yarışı.pdb
