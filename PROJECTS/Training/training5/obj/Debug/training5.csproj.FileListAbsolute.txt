@@ -1,8 +1,0 @@
-C:\Users\ismail\Desktop\C# PROJELER\Training\training5\bin\Debug\training5.exe.config
-C:\Users\ismail\Desktop\C# PROJELER\Training\training5\bin\Debug\training5.exe
-C:\Users\ismail\Desktop\C# PROJELER\Training\training5\bin\Debug\training5.pdb
-C:\Users\ismail\Desktop\C# PROJELER\Training\training5\obj\Debug\training5.csproj.AssemblyReference.cache
-C:\Users\ismail\Desktop\C# PROJELER\Training\training5\obj\Debug\training5.csproj.SuggestedBindingRedirects.cache
-C:\Users\ismail\Desktop\C# PROJELER\Training\training5\obj\Debug\training5.csproj.CoreCompileInputs.cache
-C:\Users\ismail\Desktop\C# PROJELER\Training\training5\obj\Debug\training5.exe
-C:\Users\ismail\Desktop\C# PROJELER\Training\training5\obj\Debug\training5.pdb

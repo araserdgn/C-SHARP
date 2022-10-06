@@ -1,8 +1,0 @@
-C:\Users\ismail\Desktop\C# PROJELER\Singleton\Decorator\bin\Debug\Decorator.exe.config
-C:\Users\ismail\Desktop\C# PROJELER\Singleton\Decorator\bin\Debug\Decorator.exe
-C:\Users\ismail\Desktop\C# PROJELER\Singleton\Decorator\bin\Debug\Decorator.pdb
-C:\Users\ismail\Desktop\C# PROJELER\Singleton\Decorator\obj\Debug\Decorator.csproj.AssemblyReference.cache
-C:\Users\ismail\Desktop\C# PROJELER\Singleton\Decorator\obj\Debug\Decorator.csproj.SuggestedBindingRedirects.cache
-C:\Users\ismail\Desktop\C# PROJELER\Singleton\Decorator\obj\Debug\Decorator.csproj.CoreCompileInputs.cache
-C:\Users\ismail\Desktop\C# PROJELER\Singleton\Decorator\obj\Debug\Decorator.exe
-C:\Users\ismail\Desktop\C# PROJELER\Singleton\Decorator\obj\Debug\Decorator.pdb

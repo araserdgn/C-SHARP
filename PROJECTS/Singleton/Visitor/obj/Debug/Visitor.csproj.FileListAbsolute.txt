@@ -1,8 +1,0 @@
-C:\Users\ismail\Desktop\C# PROJELER\Singleton\Visitor\bin\Debug\Visitor.exe.config
-C:\Users\ismail\Desktop\C# PROJELER\Singleton\Visitor\bin\Debug\Visitor.exe
-C:\Users\ismail\Desktop\C# PROJELER\Singleton\Visitor\bin\Debug\Visitor.pdb
-C:\Users\ismail\Desktop\C# PROJELER\Singleton\Visitor\obj\Debug\Visitor.csproj.AssemblyReference.cache
-C:\Users\ismail\Desktop\C# PROJELER\Singleton\Visitor\obj\Debug\Visitor.csproj.SuggestedBindingRedirects.cache
-C:\Users\ismail\Desktop\C# PROJELER\Singleton\Visitor\obj\Debug\Visitor.csproj.CoreCompileInputs.cache
-C:\Users\ismail\Desktop\C# PROJELER\Singleton\Visitor\obj\Debug\Visitor.exe
-C:\Users\ismail\Desktop\C# PROJELER\Singleton\Visitor\obj\Debug\Visitor.pdb

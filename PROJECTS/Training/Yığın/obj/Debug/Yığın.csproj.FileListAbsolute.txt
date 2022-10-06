@@ -1,8 +1,0 @@
-C:\Users\ismail\Desktop\C# PROJELER\Training\Yığın\bin\Debug\Yığın.exe.config
-C:\Users\ismail\Desktop\C# PROJELER\Training\Yığın\bin\Debug\Yığın.exe
-C:\Users\ismail\Desktop\C# PROJELER\Training\Yığın\bin\Debug\Yığın.pdb
-C:\Users\ismail\Desktop\C# PROJELER\Training\Yığın\obj\Debug\Yığın.csproj.AssemblyReference.cache
-C:\Users\ismail\Desktop\C# PROJELER\Training\Yığın\obj\Debug\Yığın.csproj.SuggestedBindingRedirects.cache
-C:\Users\ismail\Desktop\C# PROJELER\Training\Yığın\obj\Debug\Yığın.csproj.CoreCompileInputs.cache
-C:\Users\ismail\Desktop\C# PROJELER\Training\Yığın\obj\Debug\Yığın.exe
-C:\Users\ismail\Desktop\C# PROJELER\Training\Yığın\obj\Debug\Yığın.pdb

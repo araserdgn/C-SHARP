@@ -1,8 +1,0 @@
-C:\Users\ismail\Desktop\C# PROJELER\Singleton\NullObject\bin\Debug\NullObject.exe.config
-C:\Users\ismail\Desktop\C# PROJELER\Singleton\NullObject\bin\Debug\NullObject.exe
-C:\Users\ismail\Desktop\C# PROJELER\Singleton\NullObject\bin\Debug\NullObject.pdb
-C:\Users\ismail\Desktop\C# PROJELER\Singleton\NullObject\obj\Debug\NullObject.csproj.AssemblyReference.cache
-C:\Users\ismail\Desktop\C# PROJELER\Singleton\NullObject\obj\Debug\NullObject.csproj.SuggestedBindingRedirects.cache
-C:\Users\ismail\Desktop\C# PROJELER\Singleton\NullObject\obj\Debug\NullObject.csproj.CoreCompileInputs.cache
-C:\Users\ismail\Desktop\C# PROJELER\Singleton\NullObject\obj\Debug\NullObject.exe
-C:\Users\ismail\Desktop\C# PROJELER\Singleton\NullObject\obj\Debug\NullObject.pdb

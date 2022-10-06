@@ -1,8 +1,0 @@
-C:\Users\ismail\Desktop\C# PROJELER\Singleton\ChainOfReponsiblty\bin\Debug\ChainOfReponsiblty.exe.config
-C:\Users\ismail\Desktop\C# PROJELER\Singleton\ChainOfReponsiblty\bin\Debug\ChainOfReponsiblty.exe
-C:\Users\ismail\Desktop\C# PROJELER\Singleton\ChainOfReponsiblty\bin\Debug\ChainOfReponsiblty.pdb
-C:\Users\ismail\Desktop\C# PROJELER\Singleton\ChainOfReponsiblty\obj\Debug\ChainOfReponsiblty.csproj.AssemblyReference.cache
-C:\Users\ismail\Desktop\C# PROJELER\Singleton\ChainOfReponsiblty\obj\Debug\ChainOfReponsiblty.csproj.SuggestedBindingRedirects.cache
-C:\Users\ismail\Desktop\C# PROJELER\Singleton\ChainOfReponsiblty\obj\Debug\ChainOfReponsiblty.csproj.CoreCompileInputs.cache
-C:\Users\ismail\Desktop\C# PROJELER\Singleton\ChainOfReponsiblty\obj\Debug\ChainOfReponsiblty.exe
-C:\Users\ismail\Desktop\C# PROJELER\Singleton\ChainOfReponsiblty\obj\Debug\ChainOfReponsiblty.pdb

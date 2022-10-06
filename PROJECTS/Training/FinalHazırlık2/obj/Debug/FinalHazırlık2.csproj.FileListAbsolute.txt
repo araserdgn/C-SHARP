@@ -1,8 +1,0 @@
-C:\Users\ismail\Desktop\C# PROJELER\Training\FinalHazırlık2\bin\Debug\FinalHazırlık2.exe.config
-C:\Users\ismail\Desktop\C# PROJELER\Training\FinalHazırlık2\bin\Debug\FinalHazırlık2.exe
-C:\Users\ismail\Desktop\C# PROJELER\Training\FinalHazırlık2\bin\Debug\FinalHazırlık2.pdb
-C:\Users\ismail\Desktop\C# PROJELER\Training\FinalHazırlık2\obj\Debug\FinalHazırlık2.csproj.AssemblyReference.cache
-C:\Users\ismail\Desktop\C# PROJELER\Training\FinalHazırlık2\obj\Debug\FinalHazırlık2.csproj.SuggestedBindingRedirects.cache
-C:\Users\ismail\Desktop\C# PROJELER\Training\FinalHazırlık2\obj\Debug\FinalHazırlık2.csproj.CoreCompileInputs.cache
-C:\Users\ismail\Desktop\C# PROJELER\Training\FinalHazırlık2\obj\Debug\FinalHazırlık2.exe
-C:\Users\ismail\Desktop\C# PROJELER\Training\FinalHazırlık2\obj\Debug\FinalHazırlık2.pdb
