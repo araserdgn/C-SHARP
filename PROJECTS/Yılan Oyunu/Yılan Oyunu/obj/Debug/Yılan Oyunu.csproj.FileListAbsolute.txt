@@ -1,0 +1,22 @@
+C:\Users\ismail\Desktop\C# PROJELER\Yılan Oyunu\Yılan Oyunu\obj\Debug\Yılan Oyunu.csproj.AssemblyReference.cache
+C:\Users\ismail\Desktop\C# PROJELER\Yılan Oyunu\Yılan Oyunu\obj\Debug\Yılan Oyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\ismail\Desktop\C# PROJELER\Yılan Oyunu\Yılan Oyunu\obj\Debug\Yılan_Oyunu.Form1.resources
+C:\Users\ismail\Desktop\C# PROJELER\Yılan Oyunu\Yılan Oyunu\obj\Debug\Yılan_Oyunu.Properties.Resources.resources
+C:\Users\ismail\Desktop\C# PROJELER\Yılan Oyunu\Yılan Oyunu\obj\Debug\Yılan Oyunu.csproj.GenerateResource.cache
+C:\Users\ismail\Desktop\C# PROJELER\Yılan Oyunu\Yılan Oyunu\obj\Debug\Yılan Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\ismail\Desktop\C# PROJELER\Yılan Oyunu\Yılan Oyunu\bin\Debug\Yılan Oyunu.exe.config
+C:\Users\ismail\Desktop\C# PROJELER\Yılan Oyunu\Yılan Oyunu\bin\Debug\Yılan Oyunu.exe
+C:\Users\ismail\Desktop\C# PROJELER\Yılan Oyunu\Yılan Oyunu\bin\Debug\Yılan Oyunu.pdb
+C:\Users\ismail\Desktop\C# PROJELER\Yılan Oyunu\Yılan Oyunu\obj\Debug\Yılan Oyunu.exe
+C:\Users\ismail\Desktop\C# PROJELER\Yılan Oyunu\Yılan Oyunu\obj\Debug\Yılan Oyunu.pdb
+C:\Users\ismail\Documents\GitHub\C-SHARP\PROJECTS\Yılan Oyunu\Yılan Oyunu\bin\Debug\Yılan Oyunu.exe.config
+C:\Users\ismail\Documents\GitHub\C-SHARP\PROJECTS\Yılan Oyunu\Yılan Oyunu\bin\Debug\Yılan Oyunu.exe
+C:\Users\ismail\Documents\GitHub\C-SHARP\PROJECTS\Yılan Oyunu\Yılan Oyunu\bin\Debug\Yılan Oyunu.pdb
+C:\Users\ismail\Documents\GitHub\C-SHARP\PROJECTS\Yılan Oyunu\Yılan Oyunu\obj\Debug\Yılan Oyunu.csproj.AssemblyReference.cache
+C:\Users\ismail\Documents\GitHub\C-SHARP\PROJECTS\Yılan Oyunu\Yılan Oyunu\obj\Debug\Yılan Oyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\ismail\Documents\GitHub\C-SHARP\PROJECTS\Yılan Oyunu\Yılan Oyunu\obj\Debug\Yılan_Oyunu.Form1.resources
+C:\Users\ismail\Documents\GitHub\C-SHARP\PROJECTS\Yılan Oyunu\Yılan Oyunu\obj\Debug\Yılan_Oyunu.Properties.Resources.resources
+C:\Users\ismail\Documents\GitHub\C-SHARP\PROJECTS\Yılan Oyunu\Yılan Oyunu\obj\Debug\Yılan Oyunu.csproj.GenerateResource.cache
+C:\Users\ismail\Documents\GitHub\C-SHARP\PROJECTS\Yılan Oyunu\Yılan Oyunu\obj\Debug\Yılan Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\ismail\Documents\GitHub\C-SHARP\PROJECTS\Yılan Oyunu\Yılan Oyunu\obj\Debug\Yılan Oyunu.exe
+C:\Users\ismail\Documents\GitHub\C-SHARP\PROJECTS\Yılan Oyunu\Yılan Oyunu\obj\Debug\Yılan Oyunu.pdb
