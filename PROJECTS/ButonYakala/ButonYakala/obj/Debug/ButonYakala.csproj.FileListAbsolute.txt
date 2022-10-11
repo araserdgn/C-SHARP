@@ -1,0 +1,11 @@
+C:\Users\ismail\Desktop\C# PROJELER\ButonYakala\ButonYakala\bin\Debug\ButonYakala.exe.config
+C:\Users\ismail\Desktop\C# PROJELER\ButonYakala\ButonYakala\bin\Debug\ButonYakala.exe
+C:\Users\ismail\Desktop\C# PROJELER\ButonYakala\ButonYakala\bin\Debug\ButonYakala.pdb
+C:\Users\ismail\Desktop\C# PROJELER\ButonYakala\ButonYakala\obj\Debug\ButonYakala.csproj.AssemblyReference.cache
+C:\Users\ismail\Desktop\C# PROJELER\ButonYakala\ButonYakala\obj\Debug\ButonYakala.csproj.SuggestedBindingRedirects.cache
+C:\Users\ismail\Desktop\C# PROJELER\ButonYakala\ButonYakala\obj\Debug\ButonYakala.Form1.resources
+C:\Users\ismail\Desktop\C# PROJELER\ButonYakala\ButonYakala\obj\Debug\ButonYakala.Properties.Resources.resources
+C:\Users\ismail\Desktop\C# PROJELER\ButonYakala\ButonYakala\obj\Debug\ButonYakala.csproj.GenerateResource.cache
+C:\Users\ismail\Desktop\C# PROJELER\ButonYakala\ButonYakala\obj\Debug\ButonYakala.csproj.CoreCompileInputs.cache
+C:\Users\ismail\Desktop\C# PROJELER\ButonYakala\ButonYakala\obj\Debug\ButonYakala.exe
+C:\Users\ismail\Desktop\C# PROJELER\ButonYakala\ButonYakala\obj\Debug\ButonYakala.pdb
