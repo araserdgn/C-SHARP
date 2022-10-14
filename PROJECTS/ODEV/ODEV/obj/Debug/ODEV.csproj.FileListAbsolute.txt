@@ -1,0 +1,8 @@
+C:\Users\ismail\Desktop\C# PROJELER\ODEV\ODEV\obj\Debug\ODEV.csproj.AssemblyReference.cache
+C:\Users\ismail\Desktop\C# PROJELER\ODEV\ODEV\obj\Debug\ODEV.csproj.SuggestedBindingRedirects.cache
+C:\Users\ismail\Desktop\C# PROJELER\ODEV\ODEV\obj\Debug\ODEV.csproj.CoreCompileInputs.cache
+C:\Users\ismail\Desktop\C# PROJELER\ODEV\ODEV\bin\Debug\ODEV.exe.config
+C:\Users\ismail\Desktop\C# PROJELER\ODEV\ODEV\bin\Debug\ODEV.exe
+C:\Users\ismail\Desktop\C# PROJELER\ODEV\ODEV\bin\Debug\ODEV.pdb
+C:\Users\ismail\Desktop\C# PROJELER\ODEV\ODEV\obj\Debug\ODEV.exe
+C:\Users\ismail\Desktop\C# PROJELER\ODEV\ODEV\obj\Debug\ODEV.pdb
