@@ -1,0 +1,8 @@
+C:\Users\ismail\Desktop\C# PROJELER\Singleton\Template\bin\Debug\Template.exe.config
+C:\Users\ismail\Desktop\C# PROJELER\Singleton\Template\bin\Debug\Template.exe
+C:\Users\ismail\Desktop\C# PROJELER\Singleton\Template\bin\Debug\Template.pdb
+C:\Users\ismail\Desktop\C# PROJELER\Singleton\Template\obj\Debug\Template.csproj.AssemblyReference.cache
+C:\Users\ismail\Desktop\C# PROJELER\Singleton\Template\obj\Debug\Template.csproj.SuggestedBindingRedirects.cache
+C:\Users\ismail\Desktop\C# PROJELER\Singleton\Template\obj\Debug\Template.csproj.CoreCompileInputs.cache
+C:\Users\ismail\Desktop\C# PROJELER\Singleton\Template\obj\Debug\Template.exe
+C:\Users\ismail\Desktop\C# PROJELER\Singleton\Template\obj\Debug\Template.pdb

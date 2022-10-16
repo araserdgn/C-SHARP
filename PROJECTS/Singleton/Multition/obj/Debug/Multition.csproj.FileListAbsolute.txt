@@ -1,0 +1,8 @@
+C:\Users\ismail\Desktop\C# PROJELER\Singleton\Multition\bin\Debug\Multition.exe.config
+C:\Users\ismail\Desktop\C# PROJELER\Singleton\Multition\bin\Debug\Multition.exe
+C:\Users\ismail\Desktop\C# PROJELER\Singleton\Multition\bin\Debug\Multition.pdb
+C:\Users\ismail\Desktop\C# PROJELER\Singleton\Multition\obj\Debug\Multition.csproj.AssemblyReference.cache
+C:\Users\ismail\Desktop\C# PROJELER\Singleton\Multition\obj\Debug\Multition.csproj.SuggestedBindingRedirects.cache
+C:\Users\ismail\Desktop\C# PROJELER\Singleton\Multition\obj\Debug\Multition.csproj.CoreCompileInputs.cache
+C:\Users\ismail\Desktop\C# PROJELER\Singleton\Multition\obj\Debug\Multition.exe
+C:\Users\ismail\Desktop\C# PROJELER\Singleton\Multition\obj\Debug\Multition.pdb

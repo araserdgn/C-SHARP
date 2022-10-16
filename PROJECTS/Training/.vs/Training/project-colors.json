@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "21dd36dc-28a5-4dd7-ac0f-6f70fce75566": {
+      "ProjectGuid": "21dd36dc-28a5-4dd7-ac0f-6f70fce75566",
+      "DisplayName": "Training",
+      "ColorIndex": 0
+    },
+    "e3ed81f9-9d51-426a-b080-573927a0696e": {
+      "ProjectGuid": "e3ed81f9-9d51-426a-b080-573927a0696e",
+      "DisplayName": "Training2",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

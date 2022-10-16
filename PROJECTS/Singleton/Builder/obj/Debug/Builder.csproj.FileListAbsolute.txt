@@ -1,0 +1,8 @@
+C:\Users\ismail\Desktop\C# PROJELER\Singleton\Builder\bin\Debug\Builder.exe.config
+C:\Users\ismail\Desktop\C# PROJELER\Singleton\Builder\bin\Debug\Builder.exe
+C:\Users\ismail\Desktop\C# PROJELER\Singleton\Builder\bin\Debug\Builder.pdb
+C:\Users\ismail\Desktop\C# PROJELER\Singleton\Builder\obj\Debug\Builder.csproj.AssemblyReference.cache
+C:\Users\ismail\Desktop\C# PROJELER\Singleton\Builder\obj\Debug\Builder.csproj.SuggestedBindingRedirects.cache
+C:\Users\ismail\Desktop\C# PROJELER\Singleton\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+C:\Users\ismail\Desktop\C# PROJELER\Singleton\Builder\obj\Debug\Builder.exe
+C:\Users\ismail\Desktop\C# PROJELER\Singleton\Builder\obj\Debug\Builder.pdb

@@ -1,0 +1,8 @@
+C:\Users\ismail\Desktop\C# PROJELER\Training\kuyruk\bin\Debug\kuyruk.exe.config
+C:\Users\ismail\Desktop\C# PROJELER\Training\kuyruk\bin\Debug\kuyruk.exe
+C:\Users\ismail\Desktop\C# PROJELER\Training\kuyruk\bin\Debug\kuyruk.pdb
+C:\Users\ismail\Desktop\C# PROJELER\Training\kuyruk\obj\Debug\kuyruk.csproj.AssemblyReference.cache
+C:\Users\ismail\Desktop\C# PROJELER\Training\kuyruk\obj\Debug\kuyruk.csproj.SuggestedBindingRedirects.cache
+C:\Users\ismail\Desktop\C# PROJELER\Training\kuyruk\obj\Debug\kuyruk.csproj.CoreCompileInputs.cache
+C:\Users\ismail\Desktop\C# PROJELER\Training\kuyruk\obj\Debug\kuyruk.exe
+C:\Users\ismail\Desktop\C# PROJELER\Training\kuyruk\obj\Debug\kuyruk.pdb

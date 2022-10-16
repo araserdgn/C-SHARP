@@ -1,0 +1,8 @@
+C:\Users\ismail\Desktop\C# PROJELER\Training\FİNALHAZILIK\bin\Debug\FİNALHAZILIK.exe.config
+C:\Users\ismail\Desktop\C# PROJELER\Training\FİNALHAZILIK\bin\Debug\FİNALHAZILIK.exe
+C:\Users\ismail\Desktop\C# PROJELER\Training\FİNALHAZILIK\bin\Debug\FİNALHAZILIK.pdb
+C:\Users\ismail\Desktop\C# PROJELER\Training\FİNALHAZILIK\obj\Debug\FİNALHAZILIK.csproj.AssemblyReference.cache
+C:\Users\ismail\Desktop\C# PROJELER\Training\FİNALHAZILIK\obj\Debug\FİNALHAZILIK.csproj.SuggestedBindingRedirects.cache
+C:\Users\ismail\Desktop\C# PROJELER\Training\FİNALHAZILIK\obj\Debug\FİNALHAZILIK.csproj.CoreCompileInputs.cache
+C:\Users\ismail\Desktop\C# PROJELER\Training\FİNALHAZILIK\obj\Debug\FİNALHAZILIK.exe
+C:\Users\ismail\Desktop\C# PROJELER\Training\FİNALHAZILIK\obj\Debug\FİNALHAZILIK.pdb
