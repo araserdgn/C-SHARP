@@ -1,8 +1,0 @@
-C:\Users\ismail\Desktop\BTK_C#\ReferanceAndValueType\bin\Debug\ReferanceAndValueType.exe.config
-C:\Users\ismail\Desktop\BTK_C#\ReferanceAndValueType\bin\Debug\ReferanceAndValueType.exe
-C:\Users\ismail\Desktop\BTK_C#\ReferanceAndValueType\bin\Debug\ReferanceAndValueType.pdb
-C:\Users\ismail\Desktop\BTK_C#\ReferanceAndValueType\obj\Debug\ReferanceAndValueType.csproj.AssemblyReference.cache
-C:\Users\ismail\Desktop\BTK_C#\ReferanceAndValueType\obj\Debug\ReferanceAndValueType.csproj.SuggestedBindingRedirects.cache
-C:\Users\ismail\Desktop\BTK_C#\ReferanceAndValueType\obj\Debug\ReferanceAndValueType.csproj.CoreCompileInputs.cache
-C:\Users\ismail\Desktop\BTK_C#\ReferanceAndValueType\obj\Debug\ReferanceAndValueType.exe
-C:\Users\ismail\Desktop\BTK_C#\ReferanceAndValueType\obj\Debug\ReferanceAndValueType.pdb
