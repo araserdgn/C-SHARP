@@ -1,8 +1,0 @@
-C:\Users\ismail\Desktop\BTK_C#\Collections\bin\Debug\Collections.exe.config
-C:\Users\ismail\Desktop\BTK_C#\Collections\bin\Debug\Collections.exe
-C:\Users\ismail\Desktop\BTK_C#\Collections\bin\Debug\Collections.pdb
-C:\Users\ismail\Desktop\BTK_C#\Collections\obj\Debug\Collections.csproj.AssemblyReference.cache
-C:\Users\ismail\Desktop\BTK_C#\Collections\obj\Debug\Collections.csproj.SuggestedBindingRedirects.cache
-C:\Users\ismail\Desktop\BTK_C#\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
-C:\Users\ismail\Desktop\BTK_C#\Collections\obj\Debug\Collections.exe
-C:\Users\ismail\Desktop\BTK_C#\Collections\obj\Debug\Collections.pdb

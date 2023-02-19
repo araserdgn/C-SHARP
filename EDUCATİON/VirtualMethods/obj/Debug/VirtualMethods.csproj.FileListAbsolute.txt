@@ -1,8 +1,0 @@
-C:\Users\ismail\Desktop\BTK_C#\VirtualMethods\bin\Debug\VirtualMethods.exe.config
-C:\Users\ismail\Desktop\BTK_C#\VirtualMethods\bin\Debug\VirtualMethods.exe
-C:\Users\ismail\Desktop\BTK_C#\VirtualMethods\bin\Debug\VirtualMethods.pdb
-C:\Users\ismail\Desktop\BTK_C#\VirtualMethods\obj\Debug\VirtualMethods.csproj.AssemblyReference.cache
-C:\Users\ismail\Desktop\BTK_C#\VirtualMethods\obj\Debug\VirtualMethods.csproj.SuggestedBindingRedirects.cache
-C:\Users\ismail\Desktop\BTK_C#\VirtualMethods\obj\Debug\VirtualMethods.csproj.CoreCompileInputs.cache
-C:\Users\ismail\Desktop\BTK_C#\VirtualMethods\obj\Debug\VirtualMethods.exe
-C:\Users\ismail\Desktop\BTK_C#\VirtualMethods\obj\Debug\VirtualMethods.pdb
